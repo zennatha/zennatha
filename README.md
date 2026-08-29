@@ -43,7 +43,7 @@
       <br />
       <h3>🛠️ Focus & Stack</h3>
       <ul>
-        <li>⚡ <b>Language:</b> Go, Kotlin, python</li>
+        <li>⚡ <b>Language:</b> Go, Kotlin, Python</li>
         <li>🗄️ <b>Database:</b> MySQL</li>
         <li>🔧 <b>Tools:</b> Git, Linux, Docker</li>
       </ul>
