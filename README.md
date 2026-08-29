@@ -50,7 +50,8 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zennatha&show_icons=true&theme=dark" width="100%" />
+      <!-- Menggunakan GitHub Stats Endpoint Baru yang Anti Rate-Limit -->
+      <img src="https://github-readme-stats-git-masterrst-anurag-hazarkas-projects.vercel.app/api?username=zennatha&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d" width="100%" />
       <br /><br />
       <img src="https://streak-stats.demolab.com?user=zennatha&background=0d1117&border=30363d&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&dates=8b949e" width="100%" />
     </td>
