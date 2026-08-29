@@ -9,10 +9,12 @@
 
 <br />
 
-### 🖤 Backend Developer
+<h3>🖤 Backend Developer</h3>
 
-> *"The past makes you want to die out of regret, and the future makes you anxious about uncertainty. So by eliminating both, the present becomes the happiest time."*  
-— **Hikigaya Hachiman**
+<blockquote>
+  <i>"The past makes you want to die out of regret, and the future makes you anxious about uncertainty. So by eliminating both, the present becomes the happiest time."</i><br />
+  — <b>Hikigaya Hachiman</b>
+</blockquote>
 
 <br />
 
@@ -26,52 +28,39 @@
 
 </div>
 
-<!-- Garis Pembatas Monokrom Minimalis -->
 <hr style="border: 1px solid #30363d;" />
 
-<!-- LAYOUT DUA KOLOM (Kiri: About Me | Kanan: Stats) -->
-<table>
+<!-- LAYOUT DUA KOLOM SAMA RATA (HTML MURNI) -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-
-### ✦ About Me
-
-- 🎭 **Vibe:** Working in the dark to serve the light
-- 🥀 **Social Skill:** Error 404: Not Found
-- ☕ **Self-Esteem:** Zero, but being alone is peaceful
-
-<br />
-
-### 🛠️ Focus & Stack
-- ⚡ **Language:** Go, Kotlin
-- 🗄️ **Database:** MySQL
-- 🔧 **Tools:** Git, Linux, Docker
-
+      <h3>✦ About Me</h3>
+      <ul>
+        <li>🎭 <b>Vibe:</b> Working in the dark to serve the light</li>
+        <li>🥀 <b>Social Skill:</b> Error 404: Not Found</li>
+        <li>☕ <b>Self-Esteem:</b> Zero, but being alone is peaceful</li>
+      </ul>
+      <br />
+      <h3>🛠️ Focus & Stack</h3>
+      <ul>
+        <li>⚡ <b>Language:</b> Go, Kotlin</li>
+        <li>🗄️ <b>Database:</b> MySQL</li>
+        <li>🔧 <b>Tools:</b> Git, Linux, Docker</li>
+      </ul>
     </td>
     <td width="50%" valign="top" align="center">
-
-### 📊 GitHub Stats
-
-<!-- Card Stats Monokrom (Hitam-Abu-Putih) -->
-<img src="https://github-readme-stats.vercel.app/api?username=zennatha&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d" width="100%" />
-
-<br /><br />
-
-<!-- Streak Stats Monokrom -->
-<img src="https://streak-stats.demolab.com?user=zennatha&background=0d1117&border=30363d&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&dates=8b949e" width="100%" />
-
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=zennatha&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d" width="100%" />
+      <br /><br />
+      <img src="https://streak-stats.demolab.com?user=zennatha&background=0d1117&border=30363d&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&dates=8b949e" width="100%" />
     </td>
   </tr>
 </table>
 
-<!-- Garis Pembatas Monokrom -->
 <hr style="border: 1px solid #30363d;" />
 
-### 🐍 Contribution Snake
+<h3>🐍 Contribution Snake</h3>
 
 <div align="center">
-
-<!-- Path RAW Gambar Snake Gelap Monokrom -->
-<img src="https://raw.githubusercontent.com/zennatha/zennatha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
+  <img src="https://raw.githubusercontent.com/zennatha/zennatha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
