@@ -1,16 +1,21 @@
-## Hi there 👋
+# zennatha
+> *"The past makes you want to die out of regret, and the future makes you anxious about uncertainty. So by eliminating both, the present becomes the happiest time."* — **Hikigaya Hachiman**
 
-<!--
-**zennatha/zennatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🖤 About Me
+```go
+package main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+import "fmt"
+
+func main() {
+    profile := map[string]string{
+        "Role":         "Backend Developer",
+        "Focus":        "Go (Golang) & Kotlin",
+        "Self-Esteem":  "Zero",
+        "Social-Skill": "Error 404: Not Found",
+        "Motto":        "I hate myself, but being alone is peaceful.",
+    }
+    fmt.Println(profile)
+}
