@@ -50,8 +50,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>📊 GitHub Stats</h3>
-      <!-- Card Stats Baru (Bebas dari Server Vercel yang Bermasalah) -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zennatha&theme=2077" width="100%" />
+      <img src="https://github-readme-stats-git-masterrst-anurag-hazarkas-projects.vercel.app/api?username=zennatha&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d" width="100%" />
       <br /><br />
       <img src="https://streak-stats.demolab.com?user=zennatha&background=0d1117&border=30363d&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&sideTitle=ffffff&dates=8b949e" width="100%" />
     </td>
@@ -63,5 +62,5 @@
 <h3>🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zennatha/zennatha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/zennatha/zennatha/output/github-contribution-grid-snake-dark.svg?v=3" alt="Snake Animation" />
 </div>
