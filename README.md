@@ -45,7 +45,7 @@
       <ul>
         <li>⚡ <b>Language:</b> Go, Kotlin, Python</li>
         <li>🗄️ <b>Database:</b> MySQL</li>
-        <li>🔧 <b>Tools:</b> Git, Linux, Docker</li>
+        <li>🔧 <b>Tools:</b> Git, Docker</li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
