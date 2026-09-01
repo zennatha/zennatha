@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Teks PIXEL dengan Gradasi Putih - Abu - Hitam -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=ffffff,8b949e,161b22,0d1117&height=200&section=header&text=zennatha&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkle&font=Press+Start+2P" width="100%" />
+<!-- Header Capsule: Background Gelap Terang Dikit (#21262d), Teks PIXEL Putih (#ffffff) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=21262d&height=200&section=header&text=zennatha&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkle&font=Press+Start+2P" width="100%" />
 
 <!-- Banner GIF Aesthetic Monokrom -->
 <br />
