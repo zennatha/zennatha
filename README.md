@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=zennatha&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" />
+<!-- Header Teks PIXEL dengan Gradasi Putih - Abu - Hitam -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=ffffff,8b949e,161b22,0d1117&height=200&section=header&text=zennatha&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkle&font=Press+Start+2P" width="100%" />
 
+<!-- Banner GIF Aesthetic Monokrom -->
 <br />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93cnl5NGNreDkzeWk1MmExMG1xc3k4d3J2NngzOHlsY3N2OG80aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L13y4NVm0O2558522A/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" />
 
@@ -16,6 +18,7 @@
 
 <br />
 
+<!-- Badge Tekno Hitam-Putih-Abu -->
 <p>
   <img src="https://img.shields.io/badge/GO-0D1117?style=for-the-badge&logo=go&logoColor=ffffff&borderColor=30363d" />
   <img src="https://img.shields.io/badge/KOTLIN-161B22?style=for-the-badge&logo=kotlin&logoColor=8b949e" />
@@ -27,6 +30,7 @@
 
 <hr style="border: 1px solid #30363d;" />
 
+<!-- LAYOUT DUA KOLOM SAMA RATA (HTML MURNI) -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
