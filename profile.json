@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "login": "zennatha",
+  "seed": "#6366F1",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "こんにちは · Hello, I'm",
+    "name": "zenn.",
+    "subtitle": "Backend Developer & Systems Enthusiast — Crafting Resilient APIs & Concurrency",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "terminal",
+        "label": "Backend Dev"
+      },
+      {
+        "icon": "code",
+        "label": "Go & Kotlin"
+      },
+      {
+        "icon": "hub",
+        "label": "Clean Architecture"
+      }
+    ]
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/zennatha"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/"
+      },
+      {
+        "icon": "brand:whatsapp",
+        "url": "https://wa.me/"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:zennatha@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "pill"
+  },
+  "about": {
+    "title": "自己紹介 · About Me",
+    "items": [
+      {
+        "icon": "terminal",
+        "label": "Specializing in high-performance backend systems, RESTful APIs, and efficient database architectures"
+      },
+      {
+        "icon": "layers",
+        "label": "Backend Engineering: Clean architecture, concurrency patterns, and scalable microservices"
+      },
+      {
+        "icon": "architecture",
+        "label": "Deep interest in distributed systems, goroutines, memory optimization, and server-side logic"
+      },
+      {
+        "icon": "visibility",
+        "label": "Vibe: Working in the dark to serve the light — \"I don't mind solitude as long as the system runs 200 OK\""
+      }
+    ]
+  },
+  "stack": {
+    "title": "技術スタック · Tech Stack",
+    "groups": [
+      {
+        "title": "Backend",
+        "items": [
+          { "icon": "brand:go", "label": "Go" },
+          { "icon": "brand:kotlin", "label": "Kotlin" },
+          { "icon": "brand:python", "label": "Python" }
+        ]
+      },
+      {
+        "title": "Database",
+        "items": [
+          { "icon": "brand:mysql", "label": "MySQL" },
+          { "icon": "brand:postgresql", "label": "PostgreSQL" },
+          { "icon": "brand:mariadb", "label": "MariaDB" }
+        ]
+      },
+      {
+        "title": "Tools & Environment",
+        "items": [
+          { "icon": "brand:docker", "label": "Docker" },
+          { "icon": "brand:linux", "label": "Linux" },
+          { "icon": "brand:archlinux", "label": "Arch Linux" },
+          { "icon": "brand:git", "label": "Git" },
+          { "icon": "brand:github", "label": "GitHub" },
+          { "icon": "brand:neovim", "label": "Neovim" },
+          { "icon": "brand:vscode", "label": "VS Code" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "web-laundry",
+      "belajar-kotlin",
+      "my-project"
+    ],
+    "overrides": {
+      "web-laundry": {
+        "text": "Automated laundry management service & backend API designed for transaction workflows.",
+        "icon": "deployed_code",
+        "shape": "gem"
+      },
+      "belajar-kotlin": {
+        "text": "Core Kotlin language exploration, object-oriented concepts, and backend application practices.",
+        "icon": "code",
+        "shape": "clover"
+      },
+      "my-project": {
+        "text": "Modular backend service showcasing clean architecture, routing, and database integration.",
+        "icon": "terminal",
+        "shape": "sunny"
+      }
+    },
+    "empty": "説明はまだありません · No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub統計 · Activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "直近21日間 · Last 21 days",
+    "weekdays": "日月火水木金土",
+    "languages": "使用言語 · Top Languages",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "連続記録 · Contribution Streak",
+    "current": "現在の連続記録 · Current streak",
+    "longest": "今年の最長記録 · Longest this year",
+    "days": "日 · days"
+  },
+  "buttons": {
+    "card": false,
+    "items": [
+      {
+        "icon": "handshake",
+        "label": "ご訪問ありがとう · GitHub",
+        "url": "https://github.com/zennatha",
+        "style": "filled"
+      },
+      {
+        "icon": "mail",
+        "label": "お問い合わせ · Contact Me",
+        "url": "mailto:zennatha@gmail.com",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "全プロジェクト · Repositories",
+        "url": "https://github.com/zennatha?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
