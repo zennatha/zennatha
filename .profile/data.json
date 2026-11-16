@@ -1,16 +1,20 @@
 {
   "stars": 0,
-  "contributions": 2,
+  "contributions": 55,
   "repos": 4,
   "followers": 12,
   "languages": [
     [
+      "JavaScript",
+      47861
+    ],
+    [
       "Go",
-      33
+      26734
     ],
     [
       "Kotlin",
-      3
+      646
     ]
   ],
   "days": [
@@ -95,7 +99,7 @@
         "today": false
       },
       {
-        "c": 0,
+        "c": 2,
         "day": 16,
         "today": true
       },
@@ -107,47 +111,10 @@
     ]
   ],
   "streak": {
-    "current": 0,
-    "longest": 1
+    "current": 1,
+    "longest": 3
   },
-  "pins": [
-    {
-      "name": "zennatha",
-      "url": "https://github.com/zennatha/zennatha",
-      "text": "",
-      "fork": false,
-      "stars": 0,
-      "language": null,
-      "topics": []
-    },
-    {
-      "name": "web-laundry",
-      "url": "https://github.com/zennatha/web-laundry",
-      "text": "",
-      "fork": false,
-      "stars": 0,
-      "language": "Go",
-      "topics": []
-    },
-    {
-      "name": "belajar-kotlin",
-      "url": "https://github.com/zennatha/belajar-kotlin",
-      "text": "",
-      "fork": false,
-      "stars": 0,
-      "language": "Kotlin",
-      "topics": []
-    },
-    {
-      "name": "my-project",
-      "url": "https://github.com/zennatha/my-project",
-      "text": "ini codingan saya",
-      "fork": false,
-      "stars": 0,
-      "language": "Go",
-      "topics": []
-    }
-  ],
+  "pins": [],
   "all": [
     {
       "name": "zennatha",
@@ -155,7 +122,7 @@
       "text": "",
       "fork": false,
       "stars": 0,
-      "language": null,
+      "language": "JavaScript",
       "topics": []
     },
     {
